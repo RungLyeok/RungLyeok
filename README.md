@@ -3,7 +3,7 @@
 </div>
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RungLyeok&show_icons=true&theme=transparent)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RungLyeok&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RungLyeok&show_icons=true&theme=transparent)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RungLyeok&layout=compact)
 <br><br>
 
 <!--내용 부분-->
