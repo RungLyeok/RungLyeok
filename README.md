@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://i.imgur.com/45g3ZlF.gif" />
+  <img src="https://i.imgur.com/45g3ZlF.gif" />
 </div>
 <br><br>
 
@@ -14,6 +14,11 @@
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+</div>
+<br><br>
+
+<h3 align="center">📚 Studying 📚</h3>
 <div align="center">
 </div>
 <br><br>
