@@ -3,14 +3,11 @@
 </div>
 <br><br>
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RungLyeok&show_icons=true&theme=radical)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RungLyeok&show_icons=true&theme=radical)
 <br><br>
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RungLyeok&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RungLyeok&layout=compact)
+<br><br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
