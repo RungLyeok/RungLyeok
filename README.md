@@ -3,9 +3,7 @@
 </div>
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RungLyeok&show_icons=true&theme=radical)
-<br><br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RungLyeok&show_icons=true&theme=transparent) &nbsp
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RungLyeok&layout=compact)
 <br><br>
 
